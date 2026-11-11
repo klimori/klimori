@@ -1,0 +1,28 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="klimori — Full-Stack Developer">
+  <rect width="1200" height="320" rx="16" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="15.5" fill="none" stroke="#30363d"/>
+
+  <text x="602" y="172" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="96" font-weight="700" letter-spacing="4" fill="#ffffff">klimori
+    <animate attributeName="opacity" from="0" to="1" dur="1s" fill="freeze"/>
+  </text>
+
+  <g font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="17" font-weight="500" letter-spacing="8" text-anchor="middle" fill="#8b949e">
+    <text x="604" y="222" opacity="0">FULL-STACK DEVELOPER
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.21;0.25;1" dur="12s" begin="0.6s" repeatCount="indefinite"/>
+    </text>
+    <text x="604" y="222" opacity="0">FRONTEND &amp; BACKEND
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.29;0.46;0.50;1" dur="12s" begin="0.6s" repeatCount="indefinite"/>
+    </text>
+    <text x="604" y="222" opacity="0">CLEAN UI
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.50;0.54;0.71;0.75;1" dur="12s" begin="0.6s" repeatCount="indefinite"/>
+    </text>
+    <text x="604" y="222" opacity="0">BUILDING COOL STUFF
+      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.79;0.96;1" dur="12s" begin="0.6s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <rect x="600" y="256" width="0" height="2" rx="1" fill="#ffffff">
+    <animate attributeName="x" from="600" to="580" dur="1s" begin="0.8s" fill="freeze"/>
+    <animate attributeName="width" from="0" to="40" dur="1s" begin="0.8s" fill="freeze"/>
+  </rect>
+</svg>
