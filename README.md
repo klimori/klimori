@@ -2,15 +2,18 @@
 
 <img src="./banner.svg" alt="klimori" width="100%" />
 
-<br/>
+<br/><br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=480&lines=Full-Stack+Developer;Frontend+%2F+Backend+Coder;Building+cool+stuff" alt="Typing SVG" />
+<img src="./roles.svg" alt="Full-Stack Developer" width="600" />
 
-<br/><br/>
+<br/><br/><br/>
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,postgres,docker" height="40" />
+<h3>My Skills</h3>
+<img src="https://skillicons.dev/icons?i=js,css,ts,python,nodejs,nextjs,react,vscode,visualstudio" height="38" />
+<br><br>
+<img src="https://skillicons.dev/icons?i=html,tailwind,mongodb,postgres,git,github,docker,linux,figma" height="38" />
 
-<br/><br/>
+<br/><br/><br/>
 
 <img src="https://ghchart.rshah.org/58a6ff/klimori" alt="klimori contributions" width="90%" />
 
